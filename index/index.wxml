@@ -1,0 +1,7 @@
+<view class='contain'>
+    <image src='/images/notice.png'></image>
+    <view class='xian'></view>
+    <view class='notice container'>
+          <view class='announcement-text' animation="{{animationData}}"> {{notice_content}}</view>
+    </view>
+</view>
